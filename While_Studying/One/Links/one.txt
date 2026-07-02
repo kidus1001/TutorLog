@@ -1,0 +1,6 @@
+https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website/Adding_interactivity
+
+getElementByClass returns a collection of HTML elements, so we need to specify which index we are referring. (As multiple elements can go with the same class name)
+getElementById tho returns only a single element so there is no need to specify the index.
+
+When using html, use class not className. className is for react.

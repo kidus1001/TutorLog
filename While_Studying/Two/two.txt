@@ -1,0 +1,12 @@
+Javascript runs in javascript engines, Chrome - V8 | Firefox - Spidermonkey
+Outside of browser - Node.
+
+Ecma - specifications. Standards, that js must follow.
+
+Script (JS), two options - we can add it in the head tab or body tab.
+Best practice - at the end of the body tab. For it to not take much time rendering the html.
+(Alas with some exceptions ofcourse!)
+
+Var vs Let
+
+JS is dynamic language - where the type is assigned at run time. Unlike static language.
