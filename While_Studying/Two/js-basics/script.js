@@ -1,4 +1,2 @@
-console.log("Bye");
-
-let name = "kidus's";
-console.log(name);
+selectedColors = [2, "red", "blue", "green"]; 
+console.log(selectedColors.length);
